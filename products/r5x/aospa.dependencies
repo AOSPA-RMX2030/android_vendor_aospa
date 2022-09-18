@@ -3,7 +3,7 @@
         "remote":       "github",
         "repository":   "AOSPA-RMX2030/android_device_realme_r5x",
         "target_path":  "device/realme/r5x",
-        "revision":     "topaz"
+        "revision":     "sapphire"
     },
     {
         "remote":       "github",
@@ -15,6 +15,6 @@
         "remote":       "github",
         "repository":   "AOSPA-RMX2030/android_kernel_realme_r5x",
         "target_path":  "kernel/realme/r5x",
-        "revision":     "topaz"
+        "revision":     "sapphire"
     }
 ]
