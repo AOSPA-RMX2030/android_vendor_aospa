@@ -7,6 +7,12 @@
     },
     {
         "remote":       "aospa",
+        "repository":   "AOSPA/android_device_xiaomi_sm6225-common",
+        "target_path":  "device/xiaomi/sm6225-common",
+        "revision":     "topaz"
+    },
+    {
+        "remote":       "aospa",
         "repository":   "AOSPA/android_device_xiaomi_spes-kernel",
         "target_path":  "device/xiaomi/spes-kernel",
         "revision":     "topaz"
@@ -21,7 +27,7 @@
         "remote":       "aospa",
         "repository":   "AOSPA/android_hardware_qcom_audio",
         "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
-        "revision":     "topaz-888"
+        "revision":     "topaz-bengal"
     },
     {
         "remote":       "aospa",
